@@ -6,40 +6,114 @@ isi dengan penjelasan dasar teori disertai referensi jurnal (gunakan kurung siku
 contoh :
 Linked list atau yang disebut juga senarai berantai adalah Salah satu bentuk struktur data yang berisi kumpulan data yang tersusun secara sekuensial, saling bersambungan, dinamis, dan terbatas[1]. Linked list terdiri dari sejumlah node atau simpul yang dihubungkan secara linier dengan bantuan pointer.
 
-### A. ...<br/>
-...
-#### 1. ...
-#### 2. ...
-#### 3. ...
+### A. Operator Aritmatika<br/>
+operator aritmatika adalah simbol atau tanda dalam pemrograman yang digunakan untuk melakukan operasi perhitungan matematika pada data berupa angka
 
-### B. ...<br/>
-...
-#### 1. ...
-#### 2. ...
-#### 3. ...
+### B. Perulangan dan percabangan<br/>
+Perulangan (looping) adalah proses menjalankan sebuah blok kode secara berulang-ulang selama kondisi tertentu masih terpenuhi. Dalam C++ (dan banyak bahasa pemrograman lain), perulangan digunakan supaya program tidak perlu menulis kode yang sama berkali-kali. Percabangan adalah struktur kendali dalam pemrograman yang digunakan untuk menentukan alur program berdasarkan kondisi tertentu. Dengan percabangan, program bisa mengambil keputusan berbeda sesuai input atau situasi
 
 ## Guided 
 
-### 1. ...
+### 1. Operator Aritmatika
 
 ```C++
-source code guided 1
-```
-penjelasan singkat guided 1
+#include <iostream>
+using namespace std;
 
-### 2. ...
+int main() {
+    int angka1,angka2 ;
+    cout << "masukan angka 1: ";
+    cin >> angka1;
+    cout << "masukan angka 2: ";
+    cin >> angka2;
+
+    cout << "penjumlahan :" << angka1 + angka2 << endl ;
+    cout << "pengurangan :" << angka1 - angka2 << endl ;
+    cout << "perkalian :" << angka1 * angka2 << endl;
+    cout << "pembagian :" <<  angka1 / angka2 << endl;
+}
+```
+menjelaskan operator aritmatika
+
+### 2. Percabangan
 
 ```C++
-source code guided 2
-```
-penjelasan singkat guided 2
+#include <iostream>
+using namespace std;
 
-### 3. ...
+int main() {
+    int angka1,angka2 ;
+    cout << "masukan angka 1: ";
+    cin >> angka1;
+    cout << "masukan angka 2: ";
+    cin >> angka2;
+
+if (angka1 < angka2){
+    cout << angka1 << "kurang dari " << angka2 << endl;
+}else {
+    cout << angka1 << "lebih dari" << angka2 << endl;
+}
+
+if (angka1 == angka2) {
+    cout << angka1 << "sama dengan" << angka2 << endl;
+}else if (angka1 != angka2) {
+    cout << "angka berbeda" << endl;
+}
+
+int pilihan ;
+cout << "menu" << endl;
+cout << "1. pengjumlahan" << endl;
+cout << "2. pengurangan " << endl;
+cout << "masukan pilihan: " << endl;
+cin >> pilihan ;
+
+switch (pilihan) {
+    case 1 :
+    cout << "penjumlahan: " << angka1 + angka2 << endl;
+    cout << endl;
+    break;
+    case 2 :
+    cout << "pengurangan : " << angka1 + angka2 << endl;
+    cout << endl;
+    break;
+    default :
+    cout << "pilihan salah" << endl;
+}
+    return 0;
+}
+```
+program ini menjelaskan contoh percabangan (if, if-else) dan switch-case serta operasi aritmatika sederhana (penjumlahan/pengurangan)
+
+### 3. Perulangan
 
 ```C++
-source code guided 3
+#include <iostream>
+using namespace std;
+
+int main() {
+    int angka1;
+    cout << "masukan angka 1 :";
+    cin >> angka1;
+
+    for (int i = 0; i < angka1; i++) {
+        cout << i << "-"; 
+    }
+    cout << endl;
+    int j = 10;
+    while (j > angka1){
+        cout << j << "-";
+        j--;
+    }
+    cout << endl;
+    int k = 10;
+    do {
+        cout << k << "-";
+    } while (k < angka1);
+
+    return 0 ;
+}
 ```
-penjelasan singkat guided 3
+program ini mencontohkan tiga jenis perulangan (for, while, do while) dengan pola cetak angka berbeda.
 
 ## Unguided 
 
