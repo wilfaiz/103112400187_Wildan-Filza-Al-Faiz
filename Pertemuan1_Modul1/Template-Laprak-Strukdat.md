@@ -2,9 +2,7 @@
 <p align="center">Wildan Filza Al Faiz - 103112400187</p>
 
 ## Dasar Teori
-isi dengan penjelasan dasar teori disertai referensi jurnal (gunakan kurung siku [] untuk pernyataan yang mengambil refernsi dari jurnal).
-contoh :
-Linked list atau yang disebut juga senarai berantai adalah Salah satu bentuk struktur data yang berisi kumpulan data yang tersusun secara sekuensial, saling bersambungan, dinamis, dan terbatas[1]. Linked list terdiri dari sejumlah node atau simpul yang dihubungkan secara linier dengan bantuan pointer.
+Salah satu bahasa tingkat tinggi yang banyak digunakan adalah C++, yang dikembangkan oleh Bjarne Stroustrup sebagai pengembangan dari bahasa C dengan menambahkan konsep kelas (C with Classes). C++ telah berevolusi melalui berbagai standar, seperti C++98, C++11, C++14, hingga C++20, dan tetap menjadi bahasa yang relevan untuk berbagai aplikasi. Keunggulan C++ terletak pada kemampuannya menggabungkan pemrograman prosedural dan berorientasi objek, serta pengendalian langsung terhadap memori. Hal ini membuat C++ banyak digunakan dalam pengembangan perangkat lunak sistem, aplikasi yang membutuhkan performa tinggi, serta bidang teknik yang memerlukan pengolahan data yang kompleks.[1].
 
 ### A. Operator Aritmatika<br/>
 operator aritmatika adalah simbol atau tanda dalam pemrograman yang digunakan untuk melakukan operasi perhitungan matematika pada data berupa angka
