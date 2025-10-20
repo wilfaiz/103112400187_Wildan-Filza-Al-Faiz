@@ -1,4 +1,4 @@
-# <h1 align="center">Laporan Praktikum Modul 3 - Modul 3 ABSTRACT DATA TYPE (ADT)</h1>
+# <h1 align="center">Laporan Praktikum Modul 4 - Modul 4 Singly Linked List</h1>
 <p align="center">Wildan Filza Al Faiz - 103112400187</p>
 
 ## Dasar Teori
