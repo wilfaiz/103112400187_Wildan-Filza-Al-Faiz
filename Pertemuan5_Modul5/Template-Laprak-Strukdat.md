@@ -640,7 +640,7 @@ int main() {
 ### Output Unguided 1 :
 
 ##### Output 1
-![Screenshot Output Unguided 1_1](https://github.com/wilfaiz/103112400187_Wildan-Filza-Al-Faiz/blob/main/Pertemuan5_Modul5/sssoal1.png)
+![Screenshot Output Unguided 1_1](https://github.com/wilfaiz/103112400187_Wildan-Filza-Al-Faiz/blob/main/Pertemuan5_Modul5/ssjawab1.png)
 
 penjelasan unguided 1 
 Program ini membuat Linked List berisi angka berurutan, lalu melakukan pencarian data menggunakan metode mirip binary search, sambil menampilkan proses iterasi pencarian di layar.
