@@ -1,4 +1,4 @@
-# <h1 align="center">Laporan Praktikum Modul 5 - Modul 5 Singly Linked List</h1>
+# <h1 align="center">Laporan Praktikum Modul 6 - Modul 6 Doubly Linked List</h1>
 <p align="center">Wildan Filza Al Faiz - 103112400187</p>
 
 ## Dasar Teori
