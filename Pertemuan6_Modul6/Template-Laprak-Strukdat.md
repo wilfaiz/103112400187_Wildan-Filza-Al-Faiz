@@ -636,8 +636,8 @@ int main() {
 ### Output Unguided 1 :
 
 ##### Output 1
-![Screenshot Output Unguided 1_1](https://github.com/wilfaiz/103112400187_Wildan-Filza-Al-Faiz/blob/main/Pertemuan5_Modul5/1.png)
-![Screenshot Output Unguided 1_1](https://github.com/wilfaiz/103112400187_Wildan-Filza-Al-Faiz/blob/main/Pertemuan5_Modul5/1.2.png)
+![Screenshot Output Unguided 1_1](https://github.com/wilfaiz/103112400187_Wildan-Filza-Al-Faiz/blob/main/Pertemuan6_Modul6/sssoal1.png)
+![Screenshot Output Unguided 1_1](https://github.com/wilfaiz/103112400187_Wildan-Filza-Al-Faiz/blob/main/Pertemuan6_Modul6/sssoal1.2.png)
 
 penjelasan unguided 1 
 Program ini mengimplementasikan doubly linked list untuk mengelola data kendaraan secara dinamis. Tiap node menyimpan nomor polisi, warna, dan tahun pembuatan dengan pointer dua arah. Fungsinya meliputi membuat list kosong, menambah, mencari, menghapus data, serta memastikan nomor polisi tidak duplikat.
