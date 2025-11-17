@@ -576,7 +576,7 @@ Program di atas mengimplementasikan struktur data stack menggunakan linked list,
 
 
 ## Kesimpulan
-(ISI KESIMPULAN)
+Praktikum ini menunjukkan cara kerja stack dengan konsep LIFO menggunakan linked list dan array. Berbagai operasi seperti push, pop, update, view, dan search berhasil diterapkan, sehingga memperjelas pemahaman tentang pengelolaan data dalam struktur stack.
 
 [1]Programiz, “Linked List – Data Structure & Implementation”, 
     https://www.programiz.com/dsa/linked-list
