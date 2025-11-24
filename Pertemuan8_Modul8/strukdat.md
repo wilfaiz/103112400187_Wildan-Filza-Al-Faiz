@@ -715,6 +715,7 @@ Struktur data berperan penting dalam pemrograman karena membantu mengatur dan me
 
 [1]GeeksforGeeks — Queue Data Structure
 Link: https://www.geeksforgeeks.org/queue-data-structure/
+</br>
 [2]Programiz — Queue Data Structure
 Link: https://www.programiz.com/dsa/queue
-<br>...
+<br>
