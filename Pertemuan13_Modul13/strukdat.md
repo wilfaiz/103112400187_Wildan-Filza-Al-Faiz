@@ -2,8 +2,7 @@
 <p align="center">Wildan Filza Al Faiz - 103112400187</p>
 
 ## Dasar Teori
-DASAR TEORI
-[1].
+
 
 ### A. Struktur Data Linked List<br/>
 Linked list adalah struktur data dinamis yang terdiri dari node-node yang saling terhubung melalui pointer. Setiap node menyimpan data dan alamat node berikutnya. Tidak seperti array, linked list tidak membutuhkan memori yang tersusun berurutan sehingga lebih mudah dikembangkan. Salah satu variasinya adalah double linked list, yang memungkinkan setiap node terhubung ke node sebelumnya dan sesudahnya.
