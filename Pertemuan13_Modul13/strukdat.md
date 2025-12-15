@@ -705,13 +705,11 @@ Program ini menerapkan Multi Linked List untuk menyimpan data golongan hewan seb
 ## Kesimpulan
 Berdasarkan hasil praktikum, multi linked list terbukti efektif untuk mengelola data bertingkat dengan relasi induk dan anak. Program mampu menjalankan operasi penambahan, penghapusan, pencarian, serta penampilan data dengan baik. Penggunaan double linked list juga memudahkan proses penelusuran dan pengolahan data, sehingga struktur ini sesuai untuk data yang bersifat hierarkis dan saling terkait.
 
-[1]Linked List (Wikipedia) – Penjelasan dasar tentang linked list, konsep node, pointer, dan operasi dasar. 
+Linked List (Wikipedia) – Penjelasan dasar tentang linked list, konsep node, pointer, dan operasi dasar. 
 Wikipedia
-
 Link: https://en.wikipedia.org/wiki/Linked_list
 
 Doubly Linked List – GeeksforGeeks – Tutorial lengkap tentang doubly linked list, struktur node, fungsi insert/delete, dan traversalnya. 
 geeksforgeeks.org
-
 Link: https://www.geeksforgeeks.org/doubly-linked-list/
 <br>
